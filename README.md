@@ -20,7 +20,7 @@ C# reincarnation of the original injector called Underical, revamped for efficie
 3. Save changes and enjoy using FiveM with the enhanced GUI.
 
 ## Preview
-![Image](https://raw.githubusercontent.com/Tap1337/Underical-Recode/packages/312.png) | ![Image1](https://raw.githubusercontent.com/Tap1337/Underical-Recode/packages/1231.png)
+![Image](https://github.com/Tap1337/Underical-Recode/blob/main/packages/312.png) | ![Image1](https://github.com/Tap1337/Underical-Recode/blob/main/packages/1231.png)
 
 ## Contributions
 Contributions are appreciated. Feel free to fork the repository, make improvements, and submit pull requests.
