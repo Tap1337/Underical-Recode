@@ -1,0 +1,29 @@
+# Underical-Recode
+
+## Introduction
+C# reincarnation of the original injector called Underical, revamped for efficiency and reliability.
+
+## Features
+- Easy-to-use template for creating custom GUIs
+- Customizable settings and options
+- Intuitive design for enhanced user experience
+- Injector
+
+## Installation
+1. Clone the repository to your local machine.
+2. Open the project in Visual Studio.
+3. Build and run the project.
+
+## Usage
+1. Launch the GUI application from Visual Studio.
+2. Customize settings as needed.
+3. Save changes and enjoy using FiveM with the enhanced GUI.
+
+## Preview
+![Image](https://raw.githubusercontent.com/Tap1337/Underical-Recode/packages/312.png) | ![Image1](https://raw.githubusercontent.com/Tap1337/Underical-Recode/packages/1231.png)
+
+## Contributions
+Contributions are appreciated. Feel free to fork the repository, make improvements, and submit pull requests.
+
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
