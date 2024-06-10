@@ -1,5 +1,6 @@
 # Underical-Recode
-``` Sorry But i could't upload it to Github due too size. I will send you the __DropBox__ file with everything you need, source and stuff. ```
+    - Sorry But i could't upload it to Github due too size. 
+    - I will send you the DropBox file with everything you need, source and stuff.
 
 Download __DropBox__ Link:
 - Here is the [Source](https://www.dropbox.com/t/yjUoFA3QpUmagc4f)
