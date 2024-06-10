@@ -1,4 +1,6 @@
 # Underical-Recode
+Sorry But i could't upload it to Github due too size.
+I will send you the MEGA file with everything you need, source and stuff.
 
 ## Introduction
 C# reincarnation of the original injector called Underical, revamped for efficiency and reliability.
