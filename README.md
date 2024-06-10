@@ -8,7 +8,7 @@ Download __DropBox__ Link:
 C# reincarnation of the original injector called Underical, revamped for efficiency and reliability.
 
 ## Features
-- Easy-to-use template for creating custom GUIs
+- Easy-to-use template for creating custom UIs
 - Customizable settings and options
 - Intuitive design for enhanced user experience
 - Injector
@@ -19,9 +19,10 @@ C# reincarnation of the original injector called Underical, revamped for efficie
 3. Build and run the project.
 
 ## Usage
-1. Launch the GUI application from Visual Studio.
+1. Launch the UI application from Visual Studio.
 2. Customize settings as needed.
-3. Save changes and enjoy using FiveM with the enhanced GUI.
+3. Save changes and enjoy using Underical-Recode
+ with the enhanced UI.
 
 ## Preview
 ![Image](https://github.com/Tap1337/Underical-Recode/blob/main/packages/312.png) | ![Image1](https://github.com/Tap1337/Underical-Recode/blob/main/packages/1231.png)
